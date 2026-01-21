@@ -1,1 +1,0 @@
-# Problem-1538A---Stone-Game
